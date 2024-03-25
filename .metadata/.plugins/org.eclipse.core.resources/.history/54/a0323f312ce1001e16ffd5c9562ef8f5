@@ -1,0 +1,5 @@
+package com.layka.util;
+
+public class JPAutil {
+
+}

@@ -1,0 +1,25 @@
+package com.layka.test;
+
+import com.layka.dao.CarDao;
+import com.layka.entities.Car;
+
+public class CarTest {
+	public static void main(String[] args) {
+//créer un objet Car
+		Car c = new Car();
+		c.setCarname("BMW M5CS");
+		c.setPrice(150000);
+//ajouter l'objet Car à la BD
+		CarDao cltDao = new CarDao();
+		cltDao.ajouter(c);
+		System.out.println("Appel de la méthode listerTous");
+		for (Car cl : cltDao.listerTous())
+			System.out.println(cl.getIdCar() + " " + cl.getCarname());
+		System.out.println("Appel de la méthode listerParNom");
+		for (Car cl : cltDao.listerParNom("nadh"))
+
+			System.out.println(cl.getIdCar() + " " + cl.getCarname());
+
+//tester les autres méthodes de la classe CarDao
+	}
+}

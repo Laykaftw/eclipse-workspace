@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Mar 25 16:46:42 CET 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\MSI\\Downloads\\eclipselink\\jlib\\jpa\\org.eclipse.persistence.jpars.source_2.7.14.v20231208-d05cebc9b0.jar=WEB-INF/lib/org.eclipse.persistence.jpars.source_2.7.14.v20231208-d05cebc9b0.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\MSI\\Downloads\\eclipselink\\jlib\\jpa\\org.eclipse.persistence.jpars_2.7.14.v20231208-d05cebc9b0.jar=WEB-INF/lib/org.eclipse.persistence.jpars_2.7.14.v20231208-d05cebc9b0.jar

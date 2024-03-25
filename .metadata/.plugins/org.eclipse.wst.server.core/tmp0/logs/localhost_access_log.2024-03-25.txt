@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Mar/2024:16:39:20 +0100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:12 +0100] "GET /TP5_JEE/produits.jsp HTTP/1.1" 404 754
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:12 +0100] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:19 +0100] "GET /TP5_JEE/Cars.jsp HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:44 +0100] "GET /TP5_JEE_CARS/Cars.jsp HTTP/1.1" 200 1205
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:44 +0100] "GET /TP5_JEE_CARS/css/bootstrap.min.css HTTP/1.1" 200 155758
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:40:47 +0100] "GET /TP5_JEE_CARS/chercher.do?motCle= HTTP/1.1" 200 1205
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:45:27 +0100] "GET /TP5_JEE_CARS/chercher.do?motCle= HTTP/1.1" 200 1469
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:45:39 +0100] "GET /TP5_JEE_CARS/saisie.do HTTP/1.1" 404 743
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:46:51 +0100] "GET /TP5_JEE_CARS/chercher.do?motCle= HTTP/1.1" 200 1733
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:46:55 +0100] "GET /TP5_JEE_CARS/editer.do?id=2 HTTP/1.1" 200 1928
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:47:05 +0100] "POST /TP5_JEE_CARS/update.do HTTP/1.1" 200 1319
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:47:14 +0100] "GET /TP5_JEE_CARS/index.do HTTP/1.1" 200 1205
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:16:47:15 +0100] "GET /TP5_JEE_CARS/chercher.do?motCle= HTTP/1.1" 200 1733

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Car"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="Client"/>
+			<item value="nadhem"/>
+			<item value="car"/>
+			<item value="client"/>
+			<item value="Nom_Car"/>
+			<item value="Produit"/>
+			<item value="Prix"/>
+			<item value="NomCar"/>
+			<item value="model"/>
+			<item value="NOM_Car"/>
+			<item value="setNomCar"/>
+			<item value="Nom Car"/>
+			<item value="p"/>
+			<item value="CarName"/>
+			<item value="nomCar"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Car"/>
+			<item value="layka"/>
+			<item value="car"/>
+			<item value="CAR_NAME"/>
+			<item value="Price"/>
+			<item value="CarName"/>
+			<item value="Modele"/>
+			<item value="Car_Name"/>
+			<item value="Carname"/>
+			<item value="setCarname"/>
+			<item value="modele"/>
+			<item value="Car Name"/>
+			<item value="c"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="9"/>
+		<item key="DIALOG_Y_ORIGIN" value="116"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
